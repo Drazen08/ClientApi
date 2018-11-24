@@ -1,6 +1,5 @@
 package com.huiji.api.alipay.service;
 
-import com.alipay.api.internal.parser.json.ObjectJsonParser;
 import com.alipay.api.internal.util.AlipaySignature;
 import com.huiji.api.alipay.AlipayConfig;
 import com.huiji.api.db.entity.*;

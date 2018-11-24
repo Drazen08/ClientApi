@@ -58,18 +58,27 @@
             <version>1.1.1</version>
         </dependency>
 
+        <!--<dependency>-->
+            <!--<groupId>com.alipay</groupId>-->
+            <!--<artifactId>sdk</artifactId>-->
+            <!--<version>1.0</version>-->
+            <!--<type>jar</type>-->
+        <!--</dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/com.alipay.sdk/alipay-sdk-java -->
         <dependency>
-            <groupId>com.alipay</groupId>
-            <artifactId>sdk</artifactId>
-            <version>1.0</version>
-            <type>jar</type>
+            <groupId>com.alipay.sdk</groupId>
+            <artifactId>alipay-sdk-java</artifactId>
+            <version>3.4.49.ALL</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.dom4j</groupId>
-            <artifactId>dom4j</artifactId>
-            <version>1.6.1</version>
-        </dependency>
+
+        <!--<dependency>-->
+            <!--<groupId>com.dom4j</groupId>-->
+            <!--<artifactId>dom4j</artifactId>-->
+            <!--<version>1.6.1</version>-->
+        <!--</dependency>-->
+
         <!--<dependency>-->
             <!--<groupId>alipay</groupId>-->
             <!--<artifactId>alipay_2</artifactId>-->
